@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Hi 👋
 
 <!--
 **mikio-kamura/mikio-kamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

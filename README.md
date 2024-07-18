@@ -2,7 +2,7 @@
 
 I'm mikio!
 
-<a href="mikio-kamura.github.io/biolink">This</a> is my biolink.  Plase check it out!
+<a href="https://mikio-kamura.github.io/biolink/">This</a> is my biolink.  Plase check it out!
 
 <!--
 **mikio-kamura/mikio-kamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

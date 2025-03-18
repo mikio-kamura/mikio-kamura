@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm mikio, exploring motion through hand width doodling, coding, crafting!
+I'm mikio, exploring motion through hand with doodling, coding, crafting!
 
 <a href="https://mikio-kamura.github.io/biolink/">This</a> is my biolink.  Plase check it out!
 
